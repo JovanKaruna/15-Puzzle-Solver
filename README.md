@@ -47,4 +47,5 @@ txt file that have 4x4 size of numbers from 0 - 15
 
 ## Acknowledgement
 This project is made to fulfill IF2211 Algorithm and Strategy assignment.
+
 Created By : Jovan Karuna Cahyadi 
